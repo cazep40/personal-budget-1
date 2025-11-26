@@ -107,3 +107,5 @@ function categorizarPorMonto(movimientos, nivelBajo, nivelMedio) {
         return categorias;
     }, { bajo: [], medio: [], alto: [] });
 }
+
+
